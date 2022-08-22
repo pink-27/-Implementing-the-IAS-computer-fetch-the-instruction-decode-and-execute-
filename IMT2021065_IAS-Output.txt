@@ -1,0 +1,93 @@
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+1
+Enter first number: 5
+Enter second number: 23
+the sum is 28
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+2
+Enter first number: 43
+Enter second number: 7
+the difference is = 36
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+3
+Enter the 9 integers in a single line - 
+1 2 3 4 5 6 7 8 9
+the output is = 5
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+4
+Enter first number: 56
+Enter second number: 3
+quotient = 18
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+5
+Enter the 7 integers in a single line - 
+1 2 3 4 5 6 7
+average is = 4
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+6
+Enter first number: 12 
+Enter second number: 14
+product is = 168
+Vihans-MacBook-Air:Assignment 1 Work$ python3 ias_implementation.py
+What is your choice? :
+ 1) Addition of two numbers
+ 2) Subtraction of two numbers
+ 3) Alternate Sum and DIfference of 9 numbers
+ 4) Division of two numbers
+ 5) Average of 7 numbers
+ 6) Multiplication of two numbers
+ 7)Area and Perimeter of a rectangle or a square
+7
+Enter the length of first side: 42
+Enter the length of second side: 11
+Area = 462
+Perimeter = 106
+Vihans-MacBook-Air:Assignment 1 Work$ 
