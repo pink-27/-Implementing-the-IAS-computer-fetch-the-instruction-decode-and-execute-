@@ -44,7 +44,7 @@ ii) Execute Cycle : Consists of 2 types:
 
 I've implemented the following instruction set in my program - 
 
-1) Addiction of two numbers
+1) Addition of two numbers
 2) Subtraction of two numbers
 3) Alternate sum and difference of 9 numbers in a list/array
 4) Division of two numbers
